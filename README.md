@@ -14,6 +14,6 @@ https://www.kaggle.com/datasets/mrferozi/loan-data-for-dummy-bank
 # Process Followed
 ![Process Followed](https://github.com/ClJuRo/Classification-of-Good-Loans-and-Bad-Loans-using-ML-algorithms/assets/155101145/40f1eef5-16a7-4ab1-a614-d3b831e7646d)
 
-# Study Conducted
-Clive Jude Ronald
-![Clive Jude Ronald](https://github.com/ClJuRo/Classification-of-Good-Loans-and-Bad-Loans-using-ML-algorithms/assets/155101145/79e4465d-d295-4daa-bb75-50accbe800fa)
+# Study Conducted - Clive Jude Ronald
+![CR - Formal Pic](https://github.com/ClJuRo/Classification-of-Good-Loans-and-Bad-Loans-using-ML-algorithms/assets/155101145/a71692ae-040b-451b-8e24-6ad920a158d9)
+
